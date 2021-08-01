@@ -44,4 +44,4 @@ The few-shot streaming label classification performance for SIN and other baseli
 
 - Second, traditional streaming label learning and few-shot learning baselines (e.g., DSLL and MAML) get a significant performance improvement when embedded semantic information, and AM3 also leverages the textual features to improve classification accuracy.
   However, these semantic-augment baselines ignore the correlation between past labels and new labels. 
-- Third, it is worth noting that streaming label learning baselines perform worse than current few-shot learning baselines when examples are scarce, but they may recover quickly as examples increase. More detailed experimental results are given in Appendix D.
+- Third, it is worth noting that streaming label learning baselines perform worse than current few-shot learning baselines when examples are scarce, but they may recover quickly as examples increase. More detailed experimental results are given in the paper.
